@@ -1,0 +1,11 @@
+ItemCode    ItemName    Price   QuantityInStock Category
+001         DiaryMilk   50      20              Chocolate
+002         Rocher      50      20              Chocolate
+003         AlmondRoca  50      20              Chocolate
+004         Eclair      50      20              Chocolate
+005         MangoDrink  40      100             Drink
+006         AppleDrink  35      70              Drink
+007         OrnageJuic  40      60              Drink
+008         PotatoChips 20      50              Chips
+009         OnionFry    30      60              Chips
+010         WheatCookie 15      100             Biscuits
